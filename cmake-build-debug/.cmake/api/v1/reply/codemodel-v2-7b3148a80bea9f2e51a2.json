@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "codeforces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A-Print-Recursion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A-Print-Recursion-Debug-6c6c07b2d4fcf42455a8.json",
+					"name" : "A-Print-Recursion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B-Print-1-to-N::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B-Print-1-to-N-Debug-dffca5e5e6eb11fdb0a3.json",
+					"name" : "B-Print-1-to-N",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C-Print-N-to-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-Print-N-to-1-Debug-28394f5814e65d833b55.json",
+					"name" : "C-Print-N-to-1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug",
+		"source" : "C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

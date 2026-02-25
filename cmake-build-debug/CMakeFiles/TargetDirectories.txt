@@ -1,0 +1,5 @@
+C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug/CMakeFiles/A-Print-Recursion.dir
+C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug/CMakeFiles/B-Print-1-to-N.dir
+C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug/CMakeFiles/C-Print-N-to-1.dir
+C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/IxKha/CLionProjects/codeforces/Recursion-Codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
