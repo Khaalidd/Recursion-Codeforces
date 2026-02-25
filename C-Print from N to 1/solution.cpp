@@ -7,15 +7,12 @@ void printRecursion(int n) {
         return;
     }
 
-    cout << "I love Recursion" << endl;
+
     printRecursion(n - 1);
+    cout << "Hi" << endl;
 }
 
 int main() {
-
-    int n;
-    cin >> n;
-
-    printRecursion(n);
+    printRecursion(4);
     return 0;
 }
