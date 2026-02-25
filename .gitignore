@@ -42,3 +42,4 @@
 
 CMakeLists.txt
 main.cpp
+cmake-build-debug/
