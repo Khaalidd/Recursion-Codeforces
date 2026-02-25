@@ -13,6 +13,9 @@ void printRecursion(int n) {
 }
 
 int main() {
-    printRecursion(5);
+    int n;
+    cin >> n;
+
+    printRecursion(n);
     return 0;
 }
